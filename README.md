@@ -3,7 +3,7 @@
 **`Programadora Iniciante`**
 
 <div align="center">  
-<h1>✨ Sobre mim </h1>
+### ✨ Sobre mim
 <a>•  FullStack</a><br>
 <a>•  18 anos - 26/06/06</a><br>
 <a>•  Técnico em Desenvolvimento de Sistemas</a>
